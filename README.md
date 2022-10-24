@@ -12,3 +12,4 @@ My name is Bryan Vassar. I am a student at [CodeWorks](https://boisecodeworks.co
   + [Resume](https://BDVassar.github.io/resume)
   + Email: vassar.bryan@gmail.com
   
+"# fs-journal" 
