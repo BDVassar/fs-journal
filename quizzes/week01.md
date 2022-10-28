@@ -65,11 +65,13 @@ body tag
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+flex allows the user to be able to align and space things easier(vertical, horizontal along the main and cross axis.).
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height
+width
+align-items-stretch
 ```
