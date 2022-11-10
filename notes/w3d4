@@ -1,0 +1,40 @@
+Step 1.
+Make a model.
+
+Step 2. 
+create test models in appState
+
+Step 3.
+export the controller
+
+Step 4.
+add controller to app.js
+
+Step 5.
+Draw controller to page.
+Create place in HTML to draw too.
+setHTML()
+
+Step 6.
+Build HTML Template
+create getter in model.
+string itteration in model
+
+Step 7.
+create form in HTML.
+transfer to model and create template. 
+
+Step 8.
+Create Active case.
+Create onclick in HTML
+Create controller function for setActive
+Create service function for setActive
+Create template in HTML
+Create getter with template
+
+Step 9.
+Create Classified names in appstate
+create getter in model
+
+step 10.
+create unlocking button
